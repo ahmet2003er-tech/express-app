@@ -28,3 +28,4 @@ jobs:
           context: .
           push: true
           tags: yalchin25/express-app:latest
+
